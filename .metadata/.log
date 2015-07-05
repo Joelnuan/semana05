@@ -1,0 +1,5515 @@
+!SESSION 2015-07-05 10:34:32.688 -----------------------------------------------
+eclipse.buildId=v22.3.0-887826
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+This is a continuation of log file F:\workspaceAndroid\.metadata\.bak_0.log
+Created Time: 2015-07-05 13:16:04.583
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.583
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.584
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.584
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.585
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.585
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.586
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.587
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.588
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.588
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.589
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.589
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.590
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.590
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.591
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.591
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.592
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.592
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.592
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.593
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.593
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.594
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.595
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.596
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.596
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.597
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.597
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.598
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.598
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.599
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.599
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.600
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.600
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.601
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.601
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.601
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.602
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.603
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.604
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.604
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.605
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.605
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.606
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.606
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.607
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.607
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.608
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.608
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.609
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.609
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.609
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.610
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.612
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.612
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.612
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.613
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.613
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.614
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.614
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.614
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.615
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.615
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.616
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.616
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.616
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.617
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:04.617
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.909
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.910
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.911
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.911
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.912
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.912
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.913
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.913
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.914
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.914
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.915
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.915
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.916
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.916
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:08.917
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.604
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.606
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.607
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.609
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.610
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.612
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.613
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.614
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.615
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.616
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.617
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.618
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.619
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.620
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.621
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.625
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.627
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.628
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.629
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.630
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.631
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.632
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.633
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.634
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.635
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.636
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.637
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.638
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.639
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.640
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.857
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.858
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.858
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.859
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.859
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.860
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.861
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.861
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.862
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.862
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.863
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.863
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.864
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.864
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.865
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.867
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.867
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.868
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.868
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.869
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.869
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.870
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.870
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.871
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.871
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.872
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.872
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.873
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.873
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:16.874
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.347
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.349
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.350
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.351
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.352
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.353
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.353
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.354
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.355
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.355
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.356
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.356
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.357
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.357
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.358
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.361
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.361
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.362
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.362
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.363
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.363
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.364
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.364
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.364
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.365
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.365
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.366
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.366
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.366
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.367
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.368
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.369
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.369
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.370
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.370
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.371
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.371
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.371
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.372
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.372
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.373
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.373
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.374
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.374
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.374
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.376
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.376
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.377
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.377
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.378
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.378
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.379
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.379
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.379
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.380
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.380
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.381
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.381
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.382
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:18.382
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.349
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.350
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.351
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.353
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.354
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.355
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.356
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.357
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.358
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.359
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.360
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.361
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.362
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.363
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:19.364
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.347
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.348
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.349
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.350
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.352
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.353
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.354
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.355
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.356
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.357
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.358
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.359
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.360
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.361
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.362
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.366
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.367
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.368
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.369
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.371
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.371
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.372
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.373
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.374
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.375
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.376
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.377
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.378
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.379
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:20.380
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.714
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.715
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.715
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.716
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.716
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.716
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.717
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.717
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.718
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.718
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.719
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.719
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.720
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.720
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.720
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.723
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.723
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.724
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.724
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.725
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.725
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.725
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.726
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.726
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.727
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.727
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.728
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.728
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.729
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.729
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.731
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.732
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.732
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.733
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.733
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.733
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.734
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.734
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.735
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.735
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.736
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.736
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.736
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.737
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.737
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.739
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.740
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.740
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.741
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.741
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.741
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.742
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.742
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.743
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.743
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.744
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.744
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.745
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.745
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.745
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.748
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.748
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.748
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.749
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.750
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.750
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.750
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.751
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.751
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.752
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.752
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.753
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.753
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.754
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.754
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.756
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.756
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.757
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.757
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.758
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.758
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.759
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.759
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.760
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.760
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.761
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.761
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.762
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.762
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.762
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.764
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.765
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.765
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.766
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.766
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.767
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.767
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.767
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.768
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.768
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.769
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.769
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.769
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.770
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.770
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.772
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.772
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.773
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.773
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.774
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.774
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.775
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.775
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.775
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.776
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.776
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.777
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.777
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.778
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.778
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.781
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.781
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.782
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.783
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.783
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.784
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.784
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.785
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.785
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.785
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.786
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.786
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.787
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.787
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.788
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.790
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.790
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.790
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.791
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.792
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.792
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.792
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.793
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.794
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.794
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.794
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.795
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.795
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.796
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.796
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.798
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.799
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.799
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.800
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.800
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.801
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.801
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.802
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.802
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.803
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.803
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.804
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.804
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.804
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.805
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.807
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.807
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.808
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.808
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.809
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.809
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.810
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.810
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.811
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.811
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.812
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.812
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.812
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.813
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.813
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.815
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.815
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.816
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.816
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.817
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.817
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.818
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.818
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.819
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.819
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.819
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.820
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.820
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.821
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.821
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.823
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.823
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.824
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.824
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.825
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.825
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.826
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.826
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.827
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.827
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.827
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.828
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.828
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.829
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.829
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.831
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.832
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.832
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.833
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.833
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.833
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.834
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.834
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.835
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.835
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.835
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.836
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.836
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.837
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.837
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.839
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.839
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.840
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.840
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.841
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.841
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.842
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.842
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.843
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.843
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.844
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.844
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.845
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.845
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.845
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.847
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.848
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.848
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.849
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.849
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.850
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.850
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.850
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.851
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.851
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.852
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.852
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.853
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.853
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.854
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.855
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.856
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.856
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.857
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.857
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.858
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.858
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.859
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.859
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.860
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.860
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.860
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.861
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.861
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.862
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.863
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.864
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.864
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.865
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.865
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.866
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.866
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.866
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.867
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.867
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.867
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.868
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.868
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.869
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.869
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.975
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.976
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.976
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.977
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.977
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.978
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.978
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.979
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.979
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.980
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.980
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.981
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.981
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.982
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.982
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.984
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.985
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.985
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.986
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.986
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.987
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.987
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.988
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.988
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.989
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.989
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.989
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.990
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.990
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.991
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.992
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.993
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.993
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.994
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.994
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.995
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.995
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.996
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.996
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.997
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.997
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.998
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.998
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.998
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:30.999
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.001
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.001
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.002
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.002
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.003
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.003
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.003
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.004
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.004
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.005
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.005
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.006
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.006
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.007
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.007
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.009
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.009
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.010
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.010
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.011
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.011
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.012
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.012
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.013
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.013
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.014
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.014
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.015
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.015
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.015
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.017
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.018
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.018
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.019
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.019
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.020
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.020
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.021
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.021
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.021
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.022
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.022
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.023
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.023
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.024
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.025
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.026
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.026
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.027
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.027
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.028
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.028
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.029
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.029
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.029
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.030
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.030
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.031
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.031
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.031
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.033
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.034
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.034
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.035
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.035
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.036
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.036
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.036
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.037
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.037
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.038
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.038
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.038
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.039
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.039
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.041
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.041
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.042
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.042
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.043
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.043
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.043
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.044
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.044
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.045
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.045
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.046
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.046
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.046
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.047
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.048
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.049
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.049
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.050
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.050
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.051
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.051
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.051
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.052
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.052
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.053
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.053
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.053
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.054
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.054
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.056
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.056
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.057
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.057
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.058
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.058
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.058
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.059
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.059
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.060
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.060
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.061
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.061
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.061
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.062
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.064
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.064
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.064
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.065
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.065
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.066
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.066
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.067
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.067
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.067
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.068
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.068
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.068
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.069
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.069
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.071
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.071
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.072
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.072
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.073
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.073
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.074
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.074
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.074
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.075
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.075
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.075
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.076
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.076
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.077
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.079
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.079
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.080
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.080
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.081
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.081
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.081
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.082
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.082
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.082
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.083
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.083
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.084
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.084
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.084
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.086
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.087
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.087
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.088
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.088
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.088
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.089
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.089
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.090
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.090
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.090
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.091
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.091
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.092
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.092
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.094
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.094
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.095
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.095
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.096
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.096
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.097
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.097
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.097
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.098
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.098
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.099
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.099
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.099
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.100
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.101
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.102
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.102
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.103
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.103
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.104
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.104
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.104
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.105
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.105
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.105
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.106
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.106
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.107
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.107
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.109
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.109
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.110
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.110
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.111
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.111
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.111
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.112
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.112
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.113
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.113
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.113
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.114
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.114
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.115
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.116
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.117
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.117
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.118
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.118
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.119
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.119
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.119
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.120
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.120
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.121
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.121
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.121
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.122
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:31.122
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.616
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.617
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.617
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.618
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.618
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.619
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.619
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.620
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.620
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.620
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.621
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.621
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.622
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.622
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.623
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.625
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.626
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.626
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.627
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.627
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.628
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.628
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.629
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.629
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.629
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.630
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.630
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.631
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.631
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.631
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.633
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.634
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.634
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.635
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.635
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.636
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.636
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.636
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.637
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.637
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.638
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.638
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.638
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.639
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.639
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.641
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.642
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.642
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.643
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.643
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.644
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.644
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.645
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.645
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.646
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.646
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.647
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.647
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.648
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.648
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.650
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.651
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.651
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.652
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.652
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.653
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.653
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.654
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.654
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.655
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.655
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.656
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.656
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.656
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.657
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.659
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.659
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.660
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.661
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.661
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.662
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.662
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.662
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.663
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.663
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.664
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.664
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.665
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.665
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.666
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.668
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.668
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.669
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.669
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.670
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.670
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.671
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.671
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.672
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.672
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.673
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.673
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.673
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.674
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.674
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.677
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.677
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.678
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.678
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.679
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.679
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.680
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.680
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.681
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.681
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.682
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.682
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.683
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.683
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.683
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.686
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.686
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.687
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.687
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.688
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.688
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.689
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.689
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.689
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.690
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.690
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.691
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.691
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.692
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.692
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.695
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.695
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.696
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.696
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.697
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.697
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.698
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.698
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.698
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.699
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.699
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.700
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.700
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.701
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.701
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.703
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.704
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.704
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.705
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.705
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.705
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.706
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.706
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.707
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.707
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.708
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.708
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.708
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.709
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.709
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.711
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.712
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.712
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.713
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.713
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.714
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.714
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.714
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.715
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.715
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.716
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.716
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.716
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.717
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.717
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.719
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.720
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.720
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.721
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.721
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.722
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.722
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.722
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.723
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.723
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.724
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.724
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.724
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.725
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.725
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.728
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.728
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.729
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.729
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.730
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.730
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.731
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.731
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.732
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.732
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.733
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.733
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.734
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.734
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.735
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.736
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.737
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.737
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.738
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.738
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.739
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.739
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.740
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.740
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.741
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.741
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.741
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.742
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.742
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.743
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.745
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.745
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.746
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.746
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.747
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.747
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.748
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.748
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.748
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.749
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.749
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.750
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.750
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.751
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.751
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.753
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.754
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.754
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.755
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.755
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.756
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.756
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.757
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.757
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.757
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.758
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.758
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.759
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.759
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.760
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.762
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.762
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.763
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.763
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.764
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.764
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.765
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.765
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.765
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.766
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.766
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.767
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.767
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.768
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.768
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.770
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.770
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.771
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.771
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.772
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.772
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.773
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.773
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.774
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.774
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.775
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.775
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.776
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.776
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-07-05 13:16:50.777
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
